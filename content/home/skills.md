@@ -9,22 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Composition
+title: Outside of Work
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-- description: 100%
-  icon: chart-line
+- description: 20%
+	icon: gamepad
+	icon_pack: fas
+	name: Gaming
+- description: 60%
+  icon: bullhorn	
   icon_pack: fas
-  name: Statistics
+  name: Advocate
 - description: 100%
   icon: paw
   icon_pack: fas
-  name: Dog lover
+  name: Dog Lover
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
