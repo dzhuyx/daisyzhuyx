@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 20%
+- description: Zelda BotW, Ringfit, Animal crossing, Little Big Planet, Tearaway.
   icon: gamepad
   icon_pack: fas
   name: Gaming
-- description: 60%
+- description: Social equity and knowledge.
   icon: bullhorn	
   icon_pack: fas
   name: Advocate
-- description: 100%
+- description: Proud parent of one, friend of many.
   icon: paw
   icon_pack: fas
   name: Dog Lover
