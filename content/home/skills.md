@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 20%
-	icon: gamepad
-	icon_pack: fas
-	name: Gaming
+  icon: gamepad
+  icon_pack: fas
+  name: Gaming
 - description: 60%
   icon: bullhorn	
   icon_pack: fas
