@@ -78,7 +78,7 @@ highlight_name: false
 
 THIS SITE IS STILL UNDER CONSTRUCTION. INFORMAIOTN MAY BE INACCURATE.
 
-Welcome to my personal website!
+Welcome to my personal website! 
 
 
 
