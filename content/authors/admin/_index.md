@@ -49,9 +49,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8441-0290
-- icon: publons
-  icon_pack:ai
-  link: https://publons.com/researcher/2923779/yuxin-zhu/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yuxin-Zhu-5
