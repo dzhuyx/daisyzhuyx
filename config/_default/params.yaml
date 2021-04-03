@@ -156,6 +156,3 @@ cms:
 icon:
   pack:
     ai: true
-
-[icon_pack]
-  ai = true
