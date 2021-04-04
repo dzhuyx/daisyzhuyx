@@ -6,12 +6,14 @@ title: Yuxin (Daisy) Zhu
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Johns Hopkins University
   url: https://www.jhu.edu/
+- name: Johns Hopkins Armstrong Institute for Patient Safety and Quality
+  url: https://www.hopkinsmedicine.org/armstrong_institute/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
