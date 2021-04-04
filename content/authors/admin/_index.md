@@ -20,12 +20,12 @@ bio: My research interests include .
 
 # Interests to show in About widget
 interests:
+- Electronic Health Records
+- Misdiagnosis-Related Harm
+- Biomarkers, Alzheimer's Disease
 - Tree-Based Methods
 - Survival and Recurrent Event Analysis
 - Semi-Parametric Models
-- Biomarkers, Alzheimer's Disease
-- Electronic Health Records
-- Misdiagnosis-Related Harm
 
 # Education to show in About widget
 education:
@@ -81,7 +81,5 @@ Welcome to my personal website!
 
 test [link](https://www.jhu.edu/)
 
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
