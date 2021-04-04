@@ -12,7 +12,7 @@ role: Postdoctoral Fellow
 organizations:
 - name: Johns Hopkins University
   url: https://www.jhu.edu/
-- name: Johns Hopkins Armstrong Institute for Patient Safety and Quality
+- name: Armstrong Institute for Patient Safety and Quality
   url: https://www.hopkinsmedicine.org/armstrong_institute/index.html
 
 # Short bio (displayed in user profile at end of posts)
