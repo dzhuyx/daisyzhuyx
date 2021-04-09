@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuxin (Daisy) Zhu (祝雨馨)
+title: Yuxin Zhu (Daisy, 祝雨馨)
 
 # Is this the primary user of the site?
 superuser: true
