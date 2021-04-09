@@ -24,7 +24,7 @@ feature:
   icon: bullhorn	
   icon_pack: fas
   name: Advocate
-- description: Proud parent of one, friend of many. Also a cat lover, but I can't live with them.
+- description: Proud parent of one, friend of many.
   icon: paw
   icon_pack: fas
   name: Dog Lover
