@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Yuxin (Daisy) Zhu
+title: Yuxin Zhu \n (Daisy, 祝雨馨)
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
