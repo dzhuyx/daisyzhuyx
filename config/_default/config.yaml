@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Daisy@Biostat # Website name
+title: Yuxin Zhu, Daisy @ Biostat # Website name
 baseurl: '' # Website URL
 copyright: '© 2021 Yuxin Zhu' # Footer text, e.g. '© {year} Me'
 
