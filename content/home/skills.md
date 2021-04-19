@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Outside of Work
 subtitle:
@@ -24,6 +24,11 @@ feature:
   icon: paw
   icon_pack: fas
   name: Dog Lover
+- decription: Lately a supporter of the Dallas Mavericks.
+  icon: basketball-ball
+  icon_pack: fas
+  name: Basketball
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
