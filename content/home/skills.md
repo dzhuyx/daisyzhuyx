@@ -23,7 +23,7 @@ feature:
 - description: Proud parent of one, friend of many.
   icon: paw
   icon_pack: fas
-  name: Dog Lover
+  name: Dogs
 - decription: Lately a supporter of the Dallas Mavericks.
   icon: basketball-ball
   icon_pack: fas
