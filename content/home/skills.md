@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Outside of Work
 subtitle:
@@ -20,10 +20,6 @@ feature:
   icon: gamepad
   icon_pack: fas
   name: Gaming
-- description: blank
-  icon: bullhorn	
-  icon_pack: fas
-  name: blanks
 - description: Proud parent of one, friend of many.
   icon: paw
   icon_pack: fas
