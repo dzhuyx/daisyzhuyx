@@ -83,4 +83,8 @@ My name is Yuxin Zhu. I also go by Daisy and my Chinese name is 祝雨馨 (reads
 
 Starting in July 2021, I will be an Acting Assistant Professor (pending appointment) in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/) and a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins.
 
-My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
+My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. 
+
+Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
+
+⬅️ Look to the left for where you can find me.
