@@ -20,10 +20,10 @@ feature:
   icon: gamepad
   icon_pack: fas
   name: Gaming
-- description: test
+- description: blank
   icon: bullhorn	
   icon_pack: fas
-  name: test
+  name: blanks
 - description: Proud parent of one, friend of many.
   icon: paw
   icon_pack: fas
