@@ -70,12 +70,12 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
+# ❗️ ⚠️ 🚧 🚧 🚧 ⚠️ ❗️
+
+# THIS SITE IS STILL UNDER CONSTRUCTION. INFORMAIOTN MAY BE INACCURATE.
 highlight_name: false
 ---
 
-❗️ ⚠️ 🚧 🚧 🚧 ⚠️ ❗️
-
-THIS SITE IS STILL UNDER CONSTRUCTION. INFORMAIOTN MAY BE INACCURATE.
 
 Welcome to my personal website! 
 
@@ -87,4 +87,4 @@ My research focuses on developing statistical methods for biomarkers and electro
 
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
 
-⬅️ Look to the left to contact or learn more about me.
+Look to the left (or up if you are on your phone) to contact or learn more about me.
