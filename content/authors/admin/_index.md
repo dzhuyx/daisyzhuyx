@@ -6,7 +6,7 @@ title: Yuxin Zhu
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,12 +79,13 @@ highlight_name: false
 
 Welcome to my personal website! 
 
-My name is Yuxin Zhu. I also go by Daisy and my Chinese name is 祝雨馨 (reads: jooh eooh shee-eeng, according to nameshouts.com at least). I am a postdoctoral fellow jointly in [the Division of Biostatistics and Bioinformatics](https://www.rits.onc.jhmi.edu/dbb/) and [the Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins University](https://www.jhu.edu/). I got my PhD in 2018 in the Department of Biostatistics at Johns Hopkins University under the supervision of [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/), and I am currently jointly advised by [Dr. Zheyu Wang](https://sites.google.com/site/wangzylab/home) and [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/).
+My name is Yuxin Zhu. I also go by Daisy and my Chinese name is 祝雨馨 (reads: jooh eooh shee-eeng, according to nameshouts.com at least). I am an Assistant Professor (pending appointment) in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/) and a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins.
 
-Starting in July 2021, I will be an Assistant Professor (pending appointment) in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/) and a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins.
 
 My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. 
 
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
+
+I got my PhD in 2018 in the Department of Biostatistics at Johns Hopkins University under the supervision of [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/), and received postdoctoral training jointly in [the Division of Biostatistics and Bioinformatics](https://www.rits.onc.jhmi.edu/dbb/) and [the Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins University](https://www.jhu.edu/) advised by [Dr. Zheyu Wang](https://sites.google.com/site/wangzylab/home) and [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/).
 
 Look to the left (or up if you are on your phone) to contact or learn more about me.
