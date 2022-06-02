@@ -24,7 +24,7 @@ feature:
   icon: paw
   icon_pack: fas
   name: Dogs
-- description: Lately a supporter of the Dallas Mavericks.
+- description: Lately a supporter of Dallas Mavericks and Mephis Grizzlies.
   icon: basketball-ball
   icon_pack: fas
   name: Basketball
