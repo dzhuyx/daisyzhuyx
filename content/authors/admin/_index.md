@@ -86,6 +86,4 @@ My research focuses on developing statistical methods for biomarkers and electro
 
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
 
-I got my PhD in 2018 in the Department of Biostatistics at Johns Hopkins University under the supervision of [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/), and received postdoctoral training jointly in [the Division of Biostatistics and Bioinformatics](https://www.rits.onc.jhmi.edu/dbb/) and [the Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins University](https://www.jhu.edu/) advised by [Dr. Zheyu Wang](https://sites.google.com/site/wangzylab/home) and [Dr. Mei-Cheng Wang](http://www.biostat.jhsph.edu/~mcwang/).
-
 Look to the left (or up if you are on your phone) to learn more about me. I am looking for students to work on exciting projects with me—feel free to shoot me an email to talk about potential projects or just to chat.
