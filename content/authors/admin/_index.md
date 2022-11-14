@@ -79,10 +79,10 @@ highlight_name: false
 
 Welcome to my personal website! 
 
-My name is Yuxin Zhu. I also go by Daisy and my Chinese name is [祝雨馨](https://www.name-coach.com/yuxin-zhu-15d331b8-8dc2-4c44-8206-ef685ebf2bdb). I am an Assistant Professor in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/) and a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins.
+My name is Yuxin Zhu. I also go by Daisy and my Chinese name is [祝雨馨](https://www.name-coach.com/yuxin-zhu-15d331b8-8dc2-4c44-8206-ef685ebf2bdb). I am a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins, an Assistant Professor in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/), and I am jointly appointed in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins Bloomberg School of Public Health.
 
 
-My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. 
+I am a biostatistician by training. My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among normal individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records. 
 
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
 
