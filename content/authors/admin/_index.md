@@ -57,6 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dzhuyx
+- icon: pen-nib
+  icon_pack: ai
+  link: https://nanowrimo.org/participants/daisyzhuyx
 
 
 # Link to a PDF of your resume/CV.
