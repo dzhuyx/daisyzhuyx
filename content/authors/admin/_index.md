@@ -58,7 +58,7 @@ social:
   icon_pack: fab
   link: https://github.com/dzhuyx
 - icon: pen-nib
-  icon_pack: ai
+  icon_pack: fas
   link: https://nanowrimo.org/participants/daisyzhuyx
 
 
