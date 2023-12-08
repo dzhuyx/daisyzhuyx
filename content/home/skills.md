@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Zelda BotW, Ringfit, Animal crossing, Little Big Planet, Tearaway. Ongoing project—Zelda TotK.
+- description: Zelda BotW, Ringfit, Animal crossing, Little Big Planet, Tearaway. Ongoing project—Zelda TotK, riichi mahjong.
   icon: gamepad
   icon_pack: fas
   name: Gaming
@@ -24,7 +24,7 @@ feature:
   icon: paw
   icon_pack: fas
   name: Dogs
-- description: Lately a supporter of Dallas Mavericks and Mephis Grizzlies.
+- description: NBA fan, lately searching for a team to support.
   icon: basketball-ball
   icon_pack: fas
   name: Basketball
