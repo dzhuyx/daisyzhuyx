@@ -20,7 +20,7 @@ feature:
   icon: gamepad
   icon_pack: fas
   name: Gaming
-- description: Proud parent of one, friend of many.
+- description: Proud parent of [one](https://www.dropbox.com/scl/fo/flbqfuq8r3isnenxgyjd3/h?rlkey=zn9ydmkxls3n69geu6s6apaip&dl=0), friend of [many](https://www.dropbox.com/scl/fo/cnyg5sksuaolstl12m1d0/h?rlkey=2x2jlq5c787ik89jn5hej0o58&dl=0).
   icon: paw
   icon_pack: fas
   name: Dogs
