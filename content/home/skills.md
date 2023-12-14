@@ -24,10 +24,10 @@ feature:
   icon: paw
   icon_pack: fas
   name: Dogs
-- description: NBA fan, lately searching for a team to support.
+- description: Table tennis amateur player; NBA fan, lately searching for a team to support.
   icon: basketball-ball
   icon_pack: fas
-  name: Basketball
+  name: Sports
 
 
 # Uncomment to use emoji icons.
