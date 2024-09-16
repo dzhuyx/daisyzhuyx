@@ -87,3 +87,7 @@ My research focuses on developing statistical methods for biomarkers and electro
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
 
 Look to the left (or up if you are on your phone) to learn more about me. I am looking for students to work on exciting projects with me—feel free to shoot me an email (daisy at jhu dot edu) to talk about potential projects or just to chat.
+
+**Additional resources for everyone:**
+- If you need to do any form of academic writing, consider watching [this vide](https://youtu.be/vtIzMaLkCaM?si=UwUsmy4sCUUESphI) that has changed my life.
+- Consider [donating](https://act.alz.org/site/TR?fr_id=17669&pg=personal&px=24034681) to the course of ending Alzheimer's Disease. Every contribution makes a meaningful impact.
