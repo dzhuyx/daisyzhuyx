@@ -89,4 +89,3 @@ Look to the left (or up if you are on your phone) to learn more about me. I am l
 
 **Additional resources for everyone:**
 - If you need to do any form of academic writing, consider watching [this video](https://youtu.be/vtIzMaLkCaM?si=UwUsmy4sCUUESphI) that has changed my life.
-
