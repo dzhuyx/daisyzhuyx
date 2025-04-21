@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 # [Zelda TotK](https://youtu.be/uHGShqcAHlQ?si=vtPQgJKhafEYWoTn), 
 feature:
-- description: Zelda BotW, Ringfit, Animal crossing, Little Big Planet, Tearaway. Ongoing projects—[riichi mahjong](https://en.wikipedia.org/wiki/Japanese_mahjong), [crochet and knitting](https://www.dropbox.com/scl/fo/0tgedw4swu08o27zhi1v8/AMI_55_rMcRgx9IRaTOm8yE?rlkey=ykq5alcur5sw84fa1sc2tlzeq&st=7do54ybg&dl=0), [running (taking baby steps)](https://strava.app.link/OrkYiHRUQRb).
+- description: Zelda BotW, Ringfit, Animal crossing, Little Big Planet, Tearaway. Ongoing projects—[riichi mahjong](https://en.wikipedia.org/wiki/Japanese_mahjong), [crochet and knitting](https://www.dropbox.com/scl/fo/0tgedw4swu08o27zhi1v8/AMI_55_rMcRgx9IRaTOm8yE?rlkey=ykq5alcur5sw84fa1sc2tlzeq&st=7do54ybg&dl=0), [running (taking baby steps, but follow me on Strava!)](https://strava.app.link/OrkYiHRUQRb).
   icon: gamepad
   icon_pack: fas
   name: Fun
