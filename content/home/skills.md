@@ -25,7 +25,7 @@ feature:
   icon: paw
   icon_pack: fas
   name: Dogs
-- description: Table tennis amateur player; NBA fan, lately searching for a team to support; running ([Strava](https://strava.app.link/OrkYiHRUQRb)).
+- description: Running ([Strava](https://strava.app.link/OrkYiHRUQRb)); table tennis amateur player; sports fan.
   icon: running
   icon_pack: fas
   name: Sports
