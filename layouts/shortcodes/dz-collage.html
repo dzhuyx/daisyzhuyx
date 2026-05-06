@@ -1,23 +1,55 @@
 {{- /* dz-collage: render Just Daisy photo collage from assets/just-daisy/<folder>/.
-       Files are auto-discovered, sorted by name, and resized via Hugo's image pipeline.
+       Files are auto-discovered, then sorted newest-first by EXIF date taken.
+       Photos missing EXIF (typically PNG product shots) sort to the bottom.
+       For folder="runs": filenames containing "race" are surfaced ABOVE the
+       rest, with each group internally sorted newest-first.
        Falls back to N empty placeholder tiles when the folder has no images.
        Usage:  {{< dz-collage folder="runs" placeholder="6" updated="May 2026" >}} */ -}}
+
 {{- $folder := .Get "folder" -}}
 {{- $placeholder := default 6 (.Get "placeholder") | int -}}
 {{- $updated := .Get "updated" -}}
 {{- $exts := slice ".jpg" ".jpeg" ".png" ".webp" -}}
-{{- $images := slice -}}
+{{- $epoch := time "1970-01-01" -}}
+
+{{- /* 1. Discover image files and annotate each with a date for sorting. */ -}}
+{{- $items := slice -}}
 {{- range (resources.Match (printf "just-daisy/%s/*" $folder)) -}}
   {{- if in $exts (lower (path.Ext .Name)) -}}
-    {{- $images = $images | append . -}}
+    {{- $date := $epoch -}}
+    {{- with .Exif -}}
+      {{- with .Date -}}
+        {{- if not .IsZero -}}{{- $date = . -}}{{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "img" . "date" $date "name" (lower .Name)) -}}
   {{- end -}}
 {{- end -}}
 
+{{- /* 2. Order: runs splits race-vs-other; everything else just sorts. */ -}}
+{{- $sorted := slice -}}
+{{- if eq $folder "runs" -}}
+  {{- $races  := slice -}}
+  {{- $others := slice -}}
+  {{- range $items -}}
+    {{- if in .name "race" -}}
+      {{- $races = $races | append . -}}
+    {{- else -}}
+      {{- $others = $others | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range (sort $races  "date" "desc") -}}{{- $sorted = $sorted | append . -}}{{- end -}}
+  {{- range (sort $others "date" "desc") -}}{{- $sorted = $sorted | append . -}}{{- end -}}
+{{- else -}}
+  {{- $sorted = sort $items "date" "desc" -}}
+{{- end -}}
+
 <div class="dz-jd-collage">
-{{- if $images -}}
-  {{- range $images -}}
-    {{- $thumb := .Resize "720x q82" -}}
-    {{- $large := .Fit "1920x1920 q88" -}}
+{{- if $sorted -}}
+  {{- range $sorted -}}
+    {{- $img   := .img -}}
+    {{- $thumb := $img.Resize "720x q82" -}}
+    {{- $large := $img.Fit "1920x1920 q88" -}}
     <div class="dz-tile"><img src="{{ $thumb.RelPermalink }}" data-large="{{ $large.RelPermalink }}" alt="" loading="lazy"></div>
   {{- end -}}
 {{- else -}}
@@ -26,6 +58,6 @@
   {{- end -}}
 {{- end -}}
 </div>
-{{- if and $images $updated }}
+{{- if and $sorted $updated }}
 <p class="dz-jd-caption">Last updated {{ $updated }}</p>
 {{- end -}}
