@@ -1,0 +1,30 @@
+{{- /* dz-collage: render Just Daisy photo collage from assets/just-daisy/<folder>/.
+       Files are auto-discovered, sorted by name, and resized via Hugo's image pipeline.
+       Falls back to N empty placeholder tiles when the folder has no images.
+       Usage:  {{< dz-collage folder="runs" placeholder="6" updated="May 2026" >}} */ -}}
+{{- $folder := .Get "folder" -}}
+{{- $placeholder := default 6 (.Get "placeholder") | int -}}
+{{- $updated := .Get "updated" -}}
+{{- $exts := slice ".jpg" ".jpeg" ".png" ".webp" -}}
+{{- $images := slice -}}
+{{- range (resources.Match (printf "just-daisy/%s/*" $folder)) -}}
+  {{- if in $exts (lower (path.Ext .Name)) -}}
+    {{- $images = $images | append . -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="dz-jd-collage">
+{{- if $images -}}
+  {{- range $images -}}
+    {{- $thumb := .Resize "720x q82" -}}
+    <div class="dz-tile"><img src="{{ $thumb.RelPermalink }}" alt="" loading="lazy"></div>
+  {{- end -}}
+{{- else -}}
+  {{- range seq $placeholder -}}
+    <div class="dz-tile"></div>
+  {{- end -}}
+{{- end -}}
+</div>
+{{- if and $images $updated }}
+<p class="dz-jd-caption">Last updated {{ $updated }}</p>
+{{- end -}}

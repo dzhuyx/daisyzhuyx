@@ -74,15 +74,57 @@ highlight_name: false
 ---
 
 
-Welcome to my personal website! 
+<div class="dz-tabs-wrapper">
+  <span class="dz-tabs-prompt">Get to know me as&hellip;</span>
+  <ul class="nav nav-tabs dz-tabs" id="dz-tabs" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="dz-tab-rne-tab" data-toggle="tab" href="#dz-pane-rne" role="tab" aria-controls="dz-pane-rne" aria-selected="true">Researcher &amp; Educator</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="dz-tab-jd-tab" data-toggle="tab" href="#dz-pane-jd" role="tab" aria-controls="dz-pane-jd" aria-selected="false">Just Daisy</a>
+    </li>
+  </ul>
+</div>
+
+<div class="tab-content dz-tab-content" id="dz-tab-content">
+
+<div class="tab-pane fade show active" id="dz-pane-rne" role="tabpanel" aria-labelledby="dz-tab-rne-tab" markdown="1">
+
+Welcome to my personal website!
 
 My name is Yuxin Zhu. I also go by Daisy and my Chinese name is [祝雨馨](https://www.name-coach.com/yuxin-zhu-15d331b8-8dc2-4c44-8206-ef685ebf2bdb). I am a primary faculty member of [the Armstrong Institute for Patient Safety and Quality](https://www.hopkinsmedicine.org/armstrong_institute/index.html) at Johns Hopkins, Assistant Professor in the Department of Neurology at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/som/), jointly appointed in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) in Johns Hopkins Bloomberg School of Public Health, and a member of the [Johns Hopkins Data Science and AI Institute](https://ai.jhu.edu/). I co-lead the [SLAM working group](https://sites.google.com/site/jhuslamgroup/) in the Department of Biostatistics and the Data Management and Statistics Core at Johns Hopkins [Alzheimer's Disease Research Center](https://alzresearch.org/).
 
-My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among cogntively unimpaired individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records and claim data. 
+My research focuses on developing statistical methods for biomarkers and electronic medical records. I work on methods that combine biomarkers to predict cognitive decline related to preclinical Alzheimer's Disease among cogntively unimpaired individuals. I also develop methods to evaluate misdiagnosis-related harm at institution or medical system levels using electronic medical records and claim data.
 
 Methodologically, I work on tree-based models, latent variable models, survival analysis, and recurrent event analysis. My general interest is in interpretable and robust statistical methodology that advances biomedical understanding and informs practices.
 
 Look to the left (or up if you are on your phone) to learn more about me. I am looking for students to work on exciting projects with me—feel free to shoot me an email (daisy at jhu dot edu) to talk about potential projects or just to chat.
 
 **Additional resources for everyone:**
+
 - If you need to do any form of academic writing, consider watching [this video](https://youtu.be/vtIzMaLkCaM?si=UwUsmy4sCUUESphI) that has changed my life.
+
+</div>
+
+<div class="tab-pane fade" id="dz-pane-jd" role="tabpanel" aria-labelledby="dz-tab-jd-tab" markdown="1">
+
+<p class="dz-jd-intro">When the work clocks out, this is where you'll find me &mdash; on a run, knitting through a podcast, all while being supervised by my corgi.</p>
+
+<section class="dz-jd-section">
+  <h3 class="dz-jd-heading">I run</h3>
+  {{< dz-collage folder="runs" placeholder="6" updated="May 2026" >}}
+</section>
+
+<section class="dz-jd-section">
+  <h3 class="dz-jd-heading">I knit</h3>
+  {{< dz-collage folder="knits" placeholder="6" updated="May 2026" >}}
+</section>
+
+<section class="dz-jd-section">
+  <h3 class="dz-jd-heading">I love every dog, but one special dog has my whole heart</h3>
+  {{< dz-collage folder="dogs" placeholder="6" updated="May 2026" >}}
+</section>
+
+</div>
+
+</div>

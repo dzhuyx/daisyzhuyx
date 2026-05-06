@@ -3,6 +3,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+# Activate this widget? true/false
+# Disabled — "Outside of Work" content now lives inside the "Just Daisy" tab on the homepage.
+active: false
+
 # This file represents a page section.
 headless: true
 
