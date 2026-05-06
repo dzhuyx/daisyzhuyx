@@ -17,7 +17,8 @@
 {{- if $images -}}
   {{- range $images -}}
     {{- $thumb := .Resize "720x q82" -}}
-    <div class="dz-tile"><img src="{{ $thumb.RelPermalink }}" alt="" loading="lazy"></div>
+    {{- $large := .Fit "1920x1920 q88" -}}
+    <div class="dz-tile"><img src="{{ $thumb.RelPermalink }}" data-large="{{ $large.RelPermalink }}" alt="" loading="lazy"></div>
   {{- end -}}
 {{- else -}}
   {{- range seq $placeholder -}}

@@ -128,3 +128,5 @@ Look to the left (or up if you are on your phone) to learn more about me. I am l
 </div>
 
 </div>
+
+<script defer src="/js/dz-lightbox.js"></script>
