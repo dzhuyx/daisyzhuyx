@@ -10,7 +10,7 @@ header:
   image: ""
 ---
 
-This is a small collection of reference materials drawn from a successful pet insurance appeal, shared by **Dr. Yuxin Zhu (Daisy)** for other pet parents navigating similar disputes.
+This is a small collection of reference materials drawn from a successful pet insurance appeal, shared by **Yuxin Zhu (Daisy)** for other pet parents navigating similar disputes.
 
 These materials are **informational only** — they are not legal or insurance advice and they are not templates to copy verbatim. Every pet insurance policy is different and every clinical situation is different. Please use these as a learning reference, then go back to your own policy and your own records to build something specific to your case.
 
