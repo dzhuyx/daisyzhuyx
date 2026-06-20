@@ -21,7 +21,7 @@ Once the PDF is here and the site is rebuilt and deployed:
 1. Visit the URL above to confirm the PDF loads
 2. Generate a new QR code encoding that URL (e.g., at qr-code-generator.com or via Python)
 3. Replace `qr.png` in `Gatsby_vet/PetsBestAppeal/Regulatory_Complaints/` with the new QR image
-4. Re-render the pamphlet PDF (open `Pamphlet_source.html` in Chrome and Print → Save as PDF, or use `weasyprint Pamphlet_source.html Pamphlet_For_Skylos_Clients.pdf`)
+4. Re-render the pamphlet PDF (open `Pamphlet_source.html` in Chrome and Print → Save as PDF, or use `weasyprint Pamphlet_source.html Gatsby_Appeal_Pamphlet.pdf`)
 
 ## Optional: add a brief landing page
 

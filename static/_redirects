@@ -9,7 +9,7 @@
 # ============================================================
 # Gatsby appeal resources — shortened alias for printed materials
 # ============================================================
-# Encoded in the QR code on the Skylos waiting-room pamphlet and inside
+# Encoded in the QR code on the printed waiting-room pamphlet and inside
 # the redacted letters PDF. Keep this stable; if you move the underlying
 # PDF, just update the destination here.
 
