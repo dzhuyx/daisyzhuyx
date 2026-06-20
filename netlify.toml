@@ -19,3 +19,21 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# ============================================================
+# URL redirects (short aliases for printed/QR-code distribution)
+# ============================================================
+# Defined here rather than in static/_redirects because Netlify reads
+# netlify.toml reliably across Hugo builds.
+
+[[redirects]]
+  from = "/gatsby-appeal"
+  to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/gatsby-appeal/"
+  to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf"
+  status = 302
+  force = true
