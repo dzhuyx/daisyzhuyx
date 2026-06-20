@@ -1,0 +1,17 @@
+# Netlify URL redirects.
+#
+# Format: <from-path> <to-path> [<status>]
+# 301 = permanent, 302 = temporary. Use 302 when the destination might change later
+# (the alias stays stable even if you move the underlying file).
+#
+# Add new redirects below. Order matters — first match wins.
+
+# ============================================================
+# Gatsby appeal resources — shortened alias for printed materials
+# ============================================================
+# Encoded in the QR code on the Skylos waiting-room pamphlet and inside
+# the redacted letters PDF. Keep this stable; if you move the underlying
+# PDF, just update the destination here.
+
+/gatsby-appeal   /uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf   302
+/gatsby-appeal/  /uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf   302
