@@ -23,17 +23,19 @@
 # ============================================================
 # URL redirects (short aliases for printed/QR-code distribution)
 # ============================================================
-# Defined here rather than in static/_redirects because Netlify reads
-# netlify.toml reliably across Hugo builds.
+# /gatsby-appeal itself is a Hugo content page (content/gatsby-appeal.md)
+# that lists both PDF and Word download options. The redirects below
+# are direct-to-file shortcuts for readers who want to skip the
+# landing page.
 
 [[redirects]]
-  from = "/gatsby-appeal"
+  from = "/gatsby-appeal.pdf"
   to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf"
   status = 302
   force = true
 
 [[redirects]]
-  from = "/gatsby-appeal/"
-  to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.pdf"
+  from = "/gatsby-appeal.docx"
+  to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.docx"
   status = 302
   force = true
