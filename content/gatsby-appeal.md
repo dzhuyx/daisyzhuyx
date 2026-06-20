@@ -47,6 +47,8 @@ These appear at the start of each section to flag what is case-specific and what
 
 The author is not an attorney and is not licensed to give insurance advice. These materials are shared from personal experience with one specific pet insurance dispute. They do not constitute professional advice of any kind. For questions about your specific policy or claim, contact your insurer, your state insurance regulator, or a licensed attorney.
 
+This resource was prepared by me as a private individual, in my own time, based on my personal experience as a pet owner. It was not prepared in any professional capacity and was not done in connection with any work I do for any employer. The views and materials here are entirely my own, and they do not represent the views of any employer, institution, or organization I am affiliated with. Where my professional affiliations appear elsewhere on this website, they are listed for identification only — they are not a statement that any of those institutions or organizations sponsor, are involved in, or endorse this resource.
+
 ---
 
 *Shared with the hope that the experience Gatsby and I are going through means a little more than just our own story — to let the love we share reach a little further than we ever possibly can on our own.*
