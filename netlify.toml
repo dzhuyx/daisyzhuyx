@@ -39,3 +39,15 @@
   to = "/uploads/gatsby-appeal-resources/Redacted_Appeal_Letters.docx"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/gatsby-appeal-pamphlet"
+  to = "/uploads/gatsby-appeal-resources/Gatsby_Appeal_Pamphlet.pdf"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/gatsby-appeal-pamphlet.pdf"
+  to = "/uploads/gatsby-appeal-resources/Gatsby_Appeal_Pamphlet.pdf"
+  status = 302
+  force = true
