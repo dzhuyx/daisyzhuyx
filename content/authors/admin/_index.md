@@ -100,9 +100,10 @@ Methodologically, I work on tree-based models, latent variable models, survival 
 
 Look to the left (or up if you are on your phone) to learn more about me. I am looking for students to work on exciting projects with me—feel free to shoot me an email (daisy at jhu dot edu) to talk about potential projects or just to chat.
 
-**Additional resources for everyone:**
+**Additional resources for fellow researchers:**
 
 - If you need to do any form of academic writing, consider watching [this video](https://youtu.be/vtIzMaLkCaM?si=UwUsmy4sCUUESphI) that has changed my life.
+- If you run several Claude Code sessions on one research project, take a look at [Taskflow for Research](https://github.com/dzhuyx/TaskflowForResearch), a human-AI to-do list I developed for my own use.
 
 </div>
 
