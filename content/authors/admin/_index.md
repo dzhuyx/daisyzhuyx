@@ -118,12 +118,12 @@ Look to the left (or up if you are on your phone) to learn more about me. I am l
 
 <section class="dz-jd-section">
   <h3 class="dz-jd-heading">I knit</h3>
-  {{< dz-collage folder="knits" placeholder="6" updated="July 2026" >}}
+  {{< dz-collage folder="knits" placeholder="6" updated="October 2026" >}}
 </section>
 
 <section class="dz-jd-section">
   <h3 class="dz-jd-heading">I love every dog, but one special dog has my whole heart</h3>
-  {{< dz-collage folder="dogs" placeholder="6" updated="June 2026" >}}
+  {{< dz-collage folder="dogs" placeholder="6" updated="October 2026" >}}
 </section>
 
 </div>
